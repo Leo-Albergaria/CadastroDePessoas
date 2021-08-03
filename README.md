@@ -1,5 +1,19 @@
-<h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<p><img src="https://user-images.githubusercontent.com/63436406/127776292-9ec4809a-1137-4dc8-b493-7de0186fd55c.png" align="left" height="80px" width="250px">
+    <p align="justify"><h3 align="center"># Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h3></p>
+    <p align="justify">
+    </p>
+</p>      
 
+---
+<p align="center">
+    <code><a href="https:/discord.com">
+        <img src="https://img.shields.io/badge/Léo Albergaria%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a></code>
+    <code><a href="https://www.linkedin.com/in/adm-leo-albergaria/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></code>
+</p>
+
+---
+<p align="justify">
 Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
@@ -49,6 +63,4 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
 [Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
-
-
-
+</p>
